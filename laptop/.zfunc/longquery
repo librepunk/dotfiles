@@ -1,0 +1,4 @@
+# Search local packages with pager help
+function longquery() {
+  trizen -Qs --color=always "$1" | slit -f
+}

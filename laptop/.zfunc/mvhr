@@ -1,0 +1,8 @@
+# Moving Horrormovies, modify for other behavior
+function mvhr() {
+  if [[ -n $1 ]]; then
+    cp -r $1 ~/Videos/&
+  else
+    echo 'Useless'
+  fi
+}

@@ -1,0 +1,173 @@
+# Keybindings
+nmap _ zI
+nmap - zO
+nmap = zz
+nmap J <C-D>
+nmap K <C-U>
+nmap qo :qpop<CR>
+nmap qp :qpush<CR>
+cunmap <C-P>
+cunmap <C-p>
+nmap qt :qunshift
+nmap w x
+nnoremap H <C-O>
+nnoremap L <C-I>
+nnoremap D :q<CR>
+nnoremap Qd :q!<CR>
+nnoremap b :open !
+nnoremap B :tabopen !
+
+## Homepage that vimb opens if started without a URI.
+## Blank
+#set home-page=about:blank
+## Random Wiki
+#set home-page=http://en.wikipedia.org/wiki/Special:Random
+## Random xkcd
+set home-page=http://c.xkcd.com/random/comic/
+## Google News
+#set home-page=https://news.google.com/news/sfy?hl=en&gl=US&ned=us
+
+# Path to the default download directory. If no download directory is set,
+# download will be written into current directory. The following pattern will
+# be expanded if the download is started '~/', '~user', '$VAR' and '${VAR}'.
+set download-path=~/Downloads/HTTP/
+
+# Speed up page loading
+set dns-prefetching=true
+
+# Command with placeholder '%s' called if form field is opened with $EDITOR to
+# spawn the editor-like `x-terminal-emulator -e vim %s'. To use Gvim as the
+# editor, it's necessary to call it with `-f' to run it in the foreground.
+set editor-command='alacrtty -e nvim %s'
+
+# Whether to enable the Frame Flattening. With this setting each subframe is
+# expanded to its contents, which will flatten all the frames to become 
+# one scrollable page.
+set frame-flattening=true
+
+# Hints like o, but instead of opening the hinted URI,
+# the `x-hint-command' is run in Vimb.
+set x-hint-command=:sh! umpv <C-R>" <CR>
+#set x-hint-command=:sh! aria2c --file-allocation=falloc -u 0 -d ~/Videos/prawns/ <C-R>% <CR>
+
+
+
+# Timeout before automatically following a non-unique numerical hint. 
+# To disable auto fire of hints, set this value to 0.
+set hint-timeout=0
+
+set hint-keys=wrtyuiopasdfgh
+
+# If enabled the inputbox will be hidden whenever it contains no text.
+set input-autohide=true
+
+# Cycle links
+set tabs-to-links=true
+
+# Obvious
+set smooth-scrolling=false
+
+# Enable or disable the spell checking feature.
+set spell-checking=true
+
+# Set comma separated list of spell checking languages to be used for
+# spell checking.
+set spell-checking-languages=en
+
+# Enable or disable support for WebGL on pages.
+set webgl=true
+
+# While typing a search command, show where the pattern typed so far matches.
+set incsearch=true
+
+# The font family to use as the default for content that does not specify a
+# font.
+set default-font='DejaVu Sans'
+
+# The font family used as the default for content using monospace font.
+set monospace-font='DejaVu Sans Mono'
+
+# The font family used as the default for content using sans-serif font.
+set sans-serif-font='DejaVu Sans'
+
+# The font family used as the default for content using serif font.
+set serif-font='DejaVu Serif'
+
+# The default font size used to display text.
+set font-size=16
+
+# Default font size for the monospace font.
+set monospace-font-size=16
+
+# Default Full-Content zoom level in percent. Default is 100.
+set default-zoom=200
+
+# Self Explanatory -- tells the URI
+set status-bar=true
+
+# Enables the site-specific compatibility workarounds.
+set site-specific-quirks=true
+
+# Style Sheet
+set stylesheet=false
+# If on, all hint labels will have the same length, so no hints will be ambiguous.
+set hint-keys-same-length=true
+
+# Shortcuts allow the opening of an URI built up from a named template with
+# additional parameters.
+shortcut-add duck=https://duckduckgo.com/?q=$0
+shortcut-add d=http://dict.cc/?s=$0
+#shortcut-add g=https://encrypted.google.com/search?q=$0
+shortcut-add g=https://www.google.com/search?q=$0
+shortcut-add y=http://www.youtube.com/results?search_query=$0
+shortcut-add s=https://www.startpage.com/do/dsearch?query=$0
+## Personal Shortcuts
+shortcut-add gh=https://github.com/$0
+shortcut-add git=https://github.com/$0/$1
+shortcut-add ghs=https://github.com/search?utf8=%E2%9C%93&q=$0&type=
+shortcut-add aw=https://wiki.archlinux.org/?search=$0
+
+# Set the shortcut as the default, that is the shortcut to be used if no
+# shortcut is given and the string to open is not an URI.
+shortcut-default duck
+
+
+# Look them up
+
+
+# GUI color settings
+# Color scheme: Base16 Eighties (https://github.com/chriskempson/base16)
+#set completion-css=color:#d3d0c8
+#background-color:#393939
+#font:12pt DejaVu Sans Mono
+#
+#set completion-hover-css=color:#d3d0c8
+#background-color:#393939
+#font:12pt DejaVu Sans Mono
+#
+#set completion-selected-css=color:#d3d0c8
+#background-color:#515151
+#font:12pt DejaVu Sans Mono
+#
+#set input-css=color:#d3d0c8
+#background-color:#393939
+#font:12pt DejaVu Sans Mono
+#
+#set input-error-css=color:#f2777a
+#background-color:#393939
+#font:12pt DejaVu Sans Mono
+#
+#set status-css=color:#ffcc66
+#background-color:#393939
+#font:12pt DejaVu Sans Mono
+#
+#set status-ssl-css=color:#99cc99
+#background-color:#393939
+#font:12pt DejaVu Sans Mono
+#
+#set status-ssl-invalid-css=color:#f2777a
+#background-color:#393939
+#font:12pt DejaVu Sans Mono
+#
+#
+# vim: ft=dosini cms=#\ %s

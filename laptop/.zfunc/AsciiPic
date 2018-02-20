@@ -1,0 +1,47 @@
+# Kinda Useless
+function AsciiPic() {
+  local help1="Three inputs"
+  local help2="First d for dark l for light"
+  local help3="Second f for full color n for no"
+  local help4="last is filename with extension"
+  if [[ -n $3 ]]; then
+    if [[ -n $2 ]]; then
+      if [[ -n $1 ]]; then
+        if [[ $1 == d ]]; then
+          if [[ $2 == f ]]; then
+            jp2a --color --html --fill --background=dark $3 --output=df$(echo $3 | sed 's/\(.*\.\)jpg/\1html/')
+          elif [[ $2 == n ]]; then
+            jp2a --color --html --background=dark $3 --output=d$(echo $3 | sed 's/\(.*\.\)jpg/\1html/')
+          else
+            print 'f for fill or n for not'
+          fi
+        elif [[ $1 == l ]]; then
+          if [[ $2 == f ]]; then
+            jp2a --color --html --fill --background=light $3 --output=lf$(echo $3 | sed 's/\(.*\.\)jpg/\1html/')
+          elif [[ $2 == n ]]; then
+            jp2a --color --html --background=dark $3 --output=l$(echo $3 | sed 's/\(.*\.\)jpg/\1html/')
+          else
+            print 'f for fill or n for not'
+          fi
+        else
+          print 'd for dark l for light'
+        fi
+      else
+        echo $help1
+        echo $help2
+        echo $help3
+        echo $help4
+      fi
+    else
+      echo $help1
+      echo $help2
+      echo $help3
+      echo $help4
+    fi
+  else
+    echo $help1
+    echo $help2
+    echo $help3
+    echo $help4
+  fi
+}

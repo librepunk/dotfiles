@@ -1,0 +1,73 @@
+windows:
+- geometry: !!binary |
+    AdnQywACAAAAAAPEAAAACQAAB3YAAAQuAAADxAAAAAkAAAd2AAAELgAAAAAAAAAAB4A=
+  tabs:
+  - active: true
+    history:
+    - pinned: true
+      title: DuckDuckGo
+      url: https://start.duckduckgo.com/
+    - pinned: true
+      title: 'Guillermo del Toro here. Director. Gamer. Tequila connoisseur. I’m here
+        answering all of your questions about my new movie The Shape of Water. AMA
+        let’s go. : movies'
+      url: https://www.reddit.com/r/movies/comments/7hjmvn/guillermo_del_toro_here_director_gamer_tequila/
+    - original-url: https://duckduckgo.com/?q=haskell%20arch%20linux
+      pinned: true
+      title: haskell arch linux at DuckDuckGo
+      url: https://duckduckgo.com/?q=haskell+arch+linux&ia=software
+    - original-url: https://duckduckgo.com/?q=haskell+arch+linux&ia=software
+      pinned: true
+      title: Haskell - ArchWiki
+      url: https://wiki.archlinux.org/index.php/Haskell
+    - pinned: true
+      title: Learn You a Haskell for Great Good!
+      url: http://learnyouahaskell.com/
+    - pinned: true
+      title: Chapters - Learn You a Haskell for Great Good!
+      url: http://learnyouahaskell.com/chapters
+    - pinned: true
+      title: Introduction - Learn You a Haskell for Great Good!
+      url: http://learnyouahaskell.com/introduction#about-this-tutorial
+    - active: true
+      pinned: true
+      scroll-pos:
+        x: 0
+        y: 14965
+      title: Starting Out - Learn You a Haskell for Great Good!
+      url: http://learnyouahaskell.com/starting-out
+      zoom: 1.18
+    - pinned: true
+      title: Chapters - Learn You a Haskell for Great Good!
+      url: http://learnyouahaskell.com/chapters
+    - pinned: true
+      title: Introduction - Learn You a Haskell for Great Good!
+      url: http://learnyouahaskell.com/introduction#about-this-tutorial
+- geometry: !!binary |
+    AdnQywACAAAAAAAJAAAACQAAA7sAAAQuAAAACQAAAAkAAAO7AAAELgAAAAAAAAAAB4A=
+  tabs:
+  - active: true
+    history:
+    - pinned: false
+      title: DuckDuckGo
+      url: https://start.duckduckgo.com/
+    - original-url: https://duckduckgo.com/?q=how%20to%20use%20gmusicproxy
+      pinned: false
+      title: how to use gmusicproxy at DuckDuckGo
+      url: https://duckduckgo.com/?q=how+to+use+gmusicproxy&ia=software
+    - original-url: https://duckduckgo.com/?q=how+to+use+gmusicproxy&ia=software
+      pinned: false
+      title: 'GitHub - diraimondo/gmusicproxy: Google Play Music Proxy - "Let''s stream
+        Google Play Music using any media-player"'
+      url: https://github.com/diraimondo/gmusicproxy
+    - pinned: false
+      title: GMusicProxy - Google Play Music Proxy
+      url: http://gmusicproxy.net/
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 13600
+      title: GMusicProxy - Google Play Music Proxy
+      url: http://gmusicproxy.net/#gmusicproxy-google-play-music-proxy-usage
+      zoom: 1.5

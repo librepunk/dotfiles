@@ -1,0 +1,12 @@
+[zx]
+background=0x2C3E50
+border_color=8x7F8C8D
+border=0
+floating=1
+font_color=0xFFFFFF
+daemon=0
+pin_bottom=1
+height=25
+font_type=pango
+font=DejaVu Sans Mono 8
+floating_windows=

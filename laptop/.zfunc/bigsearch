@@ -1,0 +1,4 @@
+# Search packages with pager help
+function longsearch() {
+  pacaur -Ss --color=always "$1" | slit -f
+ }

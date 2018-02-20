@@ -1,0 +1,163 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywACAAAAAAAAAAAAeAAAB38AAAQ3AAAAAAAAAHgAAAd/AAAENwAAAAAAAAAAB4A=
+  tabs:
+  - active: true
+    history:
+    - pinned: false
+      title: DuckDuckGo
+      url: https://start.duckduckgo.com/
+    - original-url: http://craigslist.org/
+      pinned: false
+      title: 'craigslist: los angeles jobs, apartments, personals, for sale, services,
+        community, and events'
+      url: https://losangeles.craigslist.org/
+    - pinned: false
+      title: 'craigslist: san fernando valley jobs, apartments, personals, for sale,
+        services, community, and events'
+      url: https://losangeles.craigslist.org/sfv/
+    - pinned: false
+      title: los angeles computer gigs - craigslist
+      url: https://losangeles.craigslist.org/d/computer-gigs/search/sfv/cpg
+    - pinned: false
+      title: los angeles computer gigs "("santa clarita" | scv | "canyon country"
+        | valencia | newhall)" - craigslist
+      url: https://losangeles.craigslist.org/search/sfv/cpg?query=%28%22santa+clarita%22+%7C+scv+%7C+%22canyon+country%22+%7C+valencia+%7C+newhall%29&is_paid=all
+    - pinned: false
+      title: 'craigslist: los angeles jobs, apartments, personals, for sale, services,
+        community, and events'
+      url: https://losangeles.craigslist.org/
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'craigslist: san fernando valley jobs, apartments, personals, for sale,
+        services, community, and events'
+      url: https://losangeles.craigslist.org/sfv/
+      zoom: 1.178
+- geometry: !!binary |
+    AdnQywACAAAAAAAAAAAAeAAAB38AAAQ3AAAAAAAAAHgAAAd/AAAENwAAAAAAAAAAB4A=
+  tabs:
+  - active: true
+    history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Need someone with cell phone hacking skills $$$ - computer gigs
+      url: https://losangeles.craigslist.org/sfv/cpg/d/need-someone-with-cell-phone/6414598610.html
+      zoom: 1.178
+    - pinned: false
+      title: los angeles computer gigs - craigslist
+      url: https://losangeles.craigslist.org/search/sfv/cpg
+- geometry: !!binary |
+    AdnQywACAAAAAAAAAAAAeAAAB38AAAQ3AAAAAAAAAHgAAAd/AAAENwAAAAAAAAAAB4A=
+  tabs:
+  - active: true
+    history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: ((( Postcard Address Needed! $100 )))) - computer gigs
+      url: https://losangeles.craigslist.org/sfv/cpg/d/postcard-address-needed-100/6426680302.html
+      zoom: 1.178
+- geometry: !!binary |
+    AdnQywACAAAAAAAAAAAAeAAAB38AAAQ3AAAAAAAAAHgAAAd/AAAENwAAAAAAAAAAB4A=
+  tabs:
+  - active: true
+    history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Computer Repair on a Work Group Network - computer gigs
+      url: https://losangeles.craigslist.org/sfv/cpg/d/computer-repair-on-work-group/6412403256.html
+      zoom: 1.178
+- geometry: !!binary |
+    AdnQywACAAAAAAAAAAAAeAAAB38AAAQ3AAAAAAAAAHgAAAd/AAAENwAAAAAAAAAAB4A=
+  tabs:
+  - active: true
+    history:
+    - pinned: false
+      title: craigslist - reset password
+      url: https://accounts.craigslist.org/pass?ui=328157748&ip=HrcZ%2Fuyo&rt=P&rp=%2Fk%2F1OaY5PHh5xGC-G2ocqK9Pg%2FodIMc
+    - pinned: false
+      title: craigslist account
+      url: https://accounts.craigslist.org/pass
+    - original-url: https://accounts.craigslist.org/login?rt=P&rp=%2Fk%2F1OaY5PHh5xGC-G2ocqK9Pg%2FodIMc
+      pinned: false
+      title: 'craigslist: terms of use'
+      url: https://accounts.craigslist.org/login/tou?rt=P&rp=%2Fk%2F1OaY5PHh5xGC-G2ocqK9Pg%2FodIMc
+    - original-url: https://accounts.craigslist.org/login/tou
+      pinned: false
+      title: los angeles | choose nearest area
+      url: https://post.craigslist.org/k/1OaY5PHh5xGC-G2ocqK9Pg/odIMc?s=subarea
+    - active: true
+      original-url: https://post.craigslist.org/k/1OaY5PHh5xGC-G2ocqK9Pg/odIMc
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: los angeles | create posting
+      url: https://post.craigslist.org/k/1OaY5PHh5xGC-G2ocqK9Pg/odIMc?s=edit
+      zoom: 1.178
+- geometry: !!binary |
+    AdnQywACAAAAAAAAAAAAAAAAB38AAAQ3AAAAAAAAAAAAAAd/AAAENwAAAAAAAAAAB4A=
+  tabs:
+  - active: true
+    history:
+    - original-url: http://www.deskdr.com/go/8q4ekpx2/
+      pinned: false
+      title: can't get uzbl to work [solved] / AUR Issues, Discussion & PKGBUILD Requests
+        / Arch Linux Forums
+      url: https://bbs.archlinux.org/viewtopic.php?id=86327
+    - pinned: false
+      title: Search / Arch Linux Forums
+      url: https://bbs.archlinux.org/search.php
+    - original-url: https://bbs.archlinux.org/search.php?action=search&keywords=uzbl&author=&search_in=0&sort_by=0&sort_dir=DESC&show_as=topics&search=Submit
+      pinned: false
+      title: Search results / Arch Linux Forums
+      url: https://bbs.archlinux.org/search.php?search_id=768497321
+    - pinned: false
+      title: Search results (Page 2) / Arch Linux Forums
+      url: https://bbs.archlinux.org/search.php?search_id=768497321&p=2
+    - pinned: false
+      title: Search results (Page 3) / Arch Linux Forums
+      url: https://bbs.archlinux.org/search.php?search_id=768497321&p=3
+    - pinned: false
+      title: Search results (Page 4) / Arch Linux Forums
+      url: https://bbs.archlinux.org/search.php?search_id=768497321&p=4
+    - pinned: false
+      title: Search results (Page 5) / Arch Linux Forums
+      url: https://bbs.archlinux.org/search.php?search_id=768497321&p=5
+    - pinned: false
+      title: Search results (Page 6) / Arch Linux Forums
+      url: https://bbs.archlinux.org/search.php?search_id=768497321&p=6
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 520
+      title: True Mouselessness -- Tips? / Applications & Desktop Environments / Arch
+        Linux Forums
+      url: https://bbs.archlinux.org/viewtopic.php?id=86218
+      zoom: 1.178
+- geometry: !!binary |
+    AdnQywACAAAAAAAAAAAAMAAAB38AAAQ3AAAAAAAAADAAAAd/AAAENwAAAAAAAAAAB4A=
+  tabs:
+  - active: true
+    history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: The Tizonia Project
+      url: http://tizonia.org/
+      zoom: 1.178

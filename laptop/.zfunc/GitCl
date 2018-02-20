@@ -1,0 +1,11 @@
+function GitCl() {
+  if [[ -n $1 ]]; then
+    if [[ -n $2 ]]; then
+      git clone https://github.com/$1/$2
+    else
+      print no dice
+    fi
+  else
+    print no dice
+  fi
+}

@@ -1,0 +1,100 @@
+:set zoom.default 190
+:wq
+:session-save hi
+:window-only
+:open -t external editor with qutebrowser
+/external
+:open -t 
+/editor
+:set editor.command '["gvim", "-f", "{file}", "-c", "normal {line}G{column0}l"]'
+:set editor.encoding
+:open -t 
+:set editor.command
+:set editor.command '["gvim", "-f", "{file}", "-c", "normal {line}G{column0}l"]'
+/editor
+:download 
+:open arch linux just browsing
+:q
+:open tubegalore
+:open pornhub.com
+:open youporn.com
+:open xnxx.com
+:open google.com
+:history
+/porn
+:bind m hint links spawn mpv {hint-url}
+:bind m hint links spawn umpv {hint-url}
+:bind M hint links spawn mpv {hint-url}
+:set hints.chars asdfghjkl;
+:set zoom.default 200
+/punk
+/anal
+/big
+/cock
+:zoom 200
+:history -t
+/xnxx
+/altern
+:set zoom.default 190
+/teen
+:set zoom.default 200
+/red
+:zoom 220
+:set zoom.default 220
+:open pornhub.com
+:open https://www.tblop.com/
+/comp
+:set zoom.default 125
+:set hints.chars asdfwerxcv
+:set hints.chars ;lkjnmoiup
+:history -t
+:spawn mpv https://www.pornhub.com/view_video.php?viewkey=ph58ee457ae532b
+/too
+:wq
+:session-load default
+:open -t vmail
+:open vmail vim gmail
+?image
+/view
+:open -t web.grizzlyapp.com
+:set hints.chars asdfwerxcv
+:history -t
+:open -t grindr
+:open grindr alternatives
+:open -t http://grindrhack.com/
+:wq
+:bind cl hint links spawn dtach -p /tmp/git 'git clone {hint-url]'
+:messages
+:bind cl hint links spawn "dtach -p /tmp/git 'git clone {hint-url]'"
+:messages
+:bind cl hint links spawn dtach -p /tmp/git 'git clone {hint-url]'
+:messages
+:help
+/comm
+/spawn
+/mpv
+/spawn
+:bind cl hint links spawn dtach -p /tmp/git git clone {hint-url]
+:bind cl hint links spawn dtach -p /tmp/git git clone {hint-url}
+:bind cl hint links spawn git clone {hint-url}
+:help spawn
+:spawn
+:help :spawn 
+:history
+:bind cl hint links spawn git clone {hint-url} ~/Public/MPV/userscripts/
+:bind cl hint links spawn -d -o git clone {hint-url} ~/Public/MPV/userscripts/ 
+:bind cl hint links spawn -d -o git clone {hint-url} 
+:bind cl hint links spawn -d -o gcl {hint-url}
+:bind cl hint links spawn dtach -p /tmp/git git clone {hint-url}
+:bind cl hint links spawn dtach -a /tmp/git git clone {hint-url}
+:bind cl hint links spawn echo {hint-url} | dtach -p /tmp/git git clone
+:spawn echo {url} > fifo
+:spawn echo {url} > .txt
+:open pornhub
+:open xnxx.com
+/bbc
+:open pornhub.com
+:quickmark-load prawn4
+:quickmark-load porn best
+:history
+:open https://www.tblop.com/

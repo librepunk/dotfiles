@@ -1,0 +1,14 @@
+windows:
+- geometry: !!binary |
+    AdnQywACAAAAAAAKAAAAIAAAB3UAAAKCAAAACwAAACAAAAd0AAACgQAAAAAAAAAAB4A=
+  tabs:
+  - active: true
+    history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Vimb - manual page
+      url: https://fanglingsu.github.io/vimb/man.html
+      zoom: 2.0

@@ -1,0 +1,30 @@
+# Practice / Test scripting
+#function mundo() {
+#    if [[ -n $aliases[$1] ]]; then
+#        echo "Nope"
+#    else
+#        echo "Nice One"
+#    if
+#}
+
+# Define and source a new alias
+#function mundo() {
+    #if  [[ -n $commands[$1] ]]; then
+        #echo "Already A Command"
+    #else
+        #if [[ -n $aliases[$1] ]];then
+            #echo "Already an Alias"
+        #else
+            ##echo alias $1=$2 >> ~/.oh-my-zsh/custom/alias.zsh
+            #echo "You did it!"
+        #fi
+   #fi 
+#}
+#
+function mundo() {
+  if [[ $1 == a ]]; then
+    echo WAZZAP
+  else
+    echo NADA
+  fi
+}

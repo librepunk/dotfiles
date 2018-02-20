@@ -1,0 +1,63 @@
+windows:
+- geometry: !!binary |
+    AdnQywACAAAAAAAAAAAAEgAAB38AAAQkAAAAAQAAABIAAAd+AAAEIwAAAAAAAAAAB4A=
+  tabs:
+  - active: true
+    history:
+    - pinned: false
+      title: DuckDuckGo
+      url: https://start.duckduckgo.com/
+    - original-url: https://duckduckgo.com/?q=accessing%20folder%20in%20imap%20server%20mutt
+      pinned: false
+      title: accessing folder in imap server mutt at DuckDuckGo
+      url: https://duckduckgo.com/?q=accessing+folder+in+imap+server+mutt&ia=qa
+    - active: true
+      original-url: https://duckduckgo.com/?q=accessing+folder+in+imap+server+mutt&ia=qa
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Mutt - Debian Wiki
+      url: https://wiki.debian.org/Mutt
+      zoom: 1.25
+- geometry: !!binary |
+    AdnQywACAAAAAAAAAAAAEgAAB38AAAQkAAAAAQAAABIAAAd+AAAEIwAAAAAAAAAAB4A=
+  tabs:
+  - active: true
+    history:
+    - active: true
+      original-url: http://wiki.mutt.org/?MuttGuide/UseIMAP
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: MuttGuide/UseIMAP – Mutt
+      url: https://dev.mutt.org/trac/wiki/MuttGuide/UseIMAP
+      zoom: 1.25
+- geometry: !!binary |
+    AdnQywACAAAAAAAAAAAAEgAAB38AAAQkAAAAAQAAABIAAAd+AAAEIwAAAAAAAAAAB4A=
+  tabs:
+  - active: true
+    history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Mutt and IMAP
+      url: http://mutt.sourceforge.net/imap/
+      zoom: 1.25
+- active: true
+  geometry: !!binary |
+    AdnQywACAAAAAAAAAAAAEgAAB38AAAQkAAAAAQAAABIAAAd+AAAEIwAAAAAAAAAAB4A=
+  tabs:
+  - active: true
+    history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Environment variables - ArchWiki
+      url: https://wiki.archlinux.org/index.php/Environment_variables
+      zoom: 1.25

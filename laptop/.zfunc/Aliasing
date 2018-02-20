@@ -1,0 +1,21 @@
+# Define and source a new alias
+function Aliasing() {
+if [[ -n $1 ]]; then
+    if [[ -n $2 ]]; then
+        if  [[ -n $commands[$1] ]]; then
+            echo "Already A Command"
+        else
+            if [[ -n $aliases[$1] ]];then
+                echo "Already an Alias"
+            else
+                print "alias '$1'='$2'" >> ~/.oh-my-zsh/custom/alias.zsh
+                source ~/.zshrc
+            fi
+        fi 
+    else
+       echo "Two inputs dumbass"
+    fi
+else
+    echo "Nice one"
+fi
+}

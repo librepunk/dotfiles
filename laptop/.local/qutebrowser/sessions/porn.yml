@@ -1,0 +1,39 @@
+windows:
+- geometry: !!binary |
+    AdnQywACAAAAAAAAAAAAWAAAB38AAAQgAAAAAAAAAFgAAAd/AAAEIAAAAAAAAAAAB4A=
+  tabs:
+  - active: true
+    history:
+    - pinned: false
+      title: DuckDuckGo
+      url: https://start.duckduckgo.com/
+    - original-url: qute://settings
+      pinned: false
+      title: settings
+      url: qute://settings/
+    - original-url: https://duckduckgo.com/?q=color%20codes
+      pinned: false
+      title: color codes at DuckDuckGo
+      url: https://duckduckgo.com/?q=color+codes&ia=web
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: qutebrowser help
+      url: qute://help/index.html
+      zoom: 2.0
+- active: true
+  geometry: !!binary |
+    AdnQywACAAAAAAAAAAAAWAAAB38AAAQgAAAAAAAAAFgAAAd/AAAEIAAAAAAAAAAAB4A=
+  tabs:
+  - active: true
+    history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 2694
+      title: config
+      url: file:///home/nikd/.config/vimb/config
+      zoom: 2.0

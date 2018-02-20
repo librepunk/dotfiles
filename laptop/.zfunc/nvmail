@@ -1,0 +1,5 @@
+function nvmail() {
+  if [[ -n {argv0} ]]; then
+    echo {argv0}
+  fi
+}

@@ -1,0 +1,237 @@
+windows:
+- geometry: !!binary |
+    AdnQywACAAAAAAADAAAAAwAAAMAAAAQhAAAAAwAAAAMAAADAAAAEIQAAAAAAAAAAB4A=
+  tabs:
+  - active: true
+    history:
+    - pinned: false
+      title: 'GitHub - Airblader/i3: i3-gaps – i3 with more features (forked from
+        https://github.com/i3/i3)'
+      url: https://github.com/Airblader/i3
+    - original-url: https://www.github.com/Airblader/dotfiles-manjaro
+      pinned: false
+      title: 'GitHub - Airblader/dotfiles-manjaro: Dotfiles for Manjaro'
+      url: https://github.com/Airblader/dotfiles-manjaro
+    - pinned: false
+      title: dotfiles-manjaro/.i3 at master · Airblader/dotfiles-manjaro · GitHub
+      url: https://github.com/Airblader/dotfiles-manjaro/tree/master/.i3
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: dotfiles-manjaro/config at master · Airblader/dotfiles-manjaro · GitHub
+      url: https://github.com/Airblader/dotfiles-manjaro/blob/master/.i3/config
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywACAAAAAADBAAAAAwAAAYEAAAQhAAAAwQAAAAMAAAGBAAAEIQAAAAAAAAAAB4A=
+  tabs:
+  - active: true
+    history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'GitHub - Airblader/i3: i3-gaps – i3 with more features (forked from
+        https://github.com/i3/i3)'
+      url: https://github.com/Airblader/i3
+      zoom: 1.0
+    - original-url: https://www.github.com/Airblader/dotfiles-manjaro
+      pinned: false
+      title: 'GitHub - Airblader/dotfiles-manjaro: Dotfiles for Manjaro'
+      url: https://github.com/Airblader/dotfiles-manjaro
+    - pinned: false
+      title: dotfiles-manjaro/.i3 at master · Airblader/dotfiles-manjaro · GitHub
+      url: https://github.com/Airblader/dotfiles-manjaro/tree/master/.i3
+    - pinned: false
+      title: dotfiles-manjaro/config at master · Airblader/dotfiles-manjaro · GitHub
+      url: https://github.com/Airblader/dotfiles-manjaro/blob/master/.i3/config
+- geometry: !!binary |
+    AdnQywACAAAAAAGCAAAAAwAAAkEAAAQhAAABggAAAAMAAAJBAAAEIQAAAAAAAAAAB4A=
+  tabs:
+  - active: true
+    history:
+    - original-url: https://duckduckgo.com/?q=dealing%20with%20transpartent%20window%20stacks%20comptopn
+      pinned: false
+      title: dealing with transpartent window stacks comptopn at DuckDuckGo
+      url: https://duckduckgo.com/?q=dealing+with+transpartent+window+stacks+comptopn&ia=qa
+    - pinned: false
+      title: dealing with transpartent window stacks comptopn at DuckDuckGo
+      url: https://duckduckgo.com/?q=dealing+with+transpartent+window+stacks+comptopn&ia=qa&iax=qa
+    - original-url: https://duckduckgo.com/?q=i3%20window%20manger%20with%20conky
+      pinned: false
+      title: i3 window manger with conky at DuckDuckGo
+      url: https://duckduckgo.com/?q=i3+window+manger+with+conky&ia=videos
+    - original-url: https://duckduckgo.com/?q=using%20conky%20with%20i3
+      pinned: false
+      title: using conky with i3 at DuckDuckGo
+      url: https://duckduckgo.com/?q=using+conky+with+i3&ia=web
+    - active: true
+      original-url: https://duckduckgo.com/?q=using+conky+with+i3&ia=web
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Conky - ArchWiki
+      url: https://wiki.archlinux.org/index.php/Conky
+      zoom: 1.25
+- geometry: !!binary |
+    AdnQywACAAAAAAJCAAAAAwAAAwEAAAQhAAACQgAAAAMAAAMBAAAEIQAAAAAAAAAAB4A=
+  tabs:
+  - active: true
+    history:
+    - original-url: https://duckduckgo.com/?q=dealing%20with%20transpartent%20window%20stacks%20comptopn
+      pinned: false
+      title: dealing with transpartent window stacks comptopn at DuckDuckGo
+      url: https://duckduckgo.com/?q=dealing+with+transpartent+window+stacks+comptopn&ia=qa
+    - pinned: false
+      title: dealing with transpartent window stacks comptopn at DuckDuckGo
+      url: https://duckduckgo.com/?q=dealing+with+transpartent+window+stacks+comptopn&ia=qa&iax=qa
+    - original-url: https://duckduckgo.com/?q=i3%20window%20manger%20with%20conky
+      pinned: false
+      title: i3 window manger with conky at DuckDuckGo
+      url: https://duckduckgo.com/?q=i3+window+manger+with+conky&ia=videos
+    - original-url: https://duckduckgo.com/?q=using%20conky%20with%20i3
+      pinned: false
+      title: using conky with i3 at DuckDuckGo
+      url: https://duckduckgo.com/?q=using+conky+with+i3&ia=web
+    - active: true
+      original-url: https://duckduckgo.com/?q=using+conky+with+i3&ia=web
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Basic Tips for conky - Manjaro Linux
+      url: https://wiki.manjaro.org/index.php?title=Basic_Tips_for_conky
+      zoom: 1.5
+- geometry: !!binary |
+    AdnQywACAAAAAAMCAAAAAwAAA8EAAAQhAAADAgAAAAMAAAPBAAAEIQAAAAAAAAAAB4A=
+  tabs:
+  - active: true
+    history:
+    - original-url: https://duckduckgo.com/?q=i3%20input
+      pinned: false
+      title: i3 input at DuckDuckGo
+      url: https://duckduckgo.com/?q=i3+input&ia=web
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Input not working - i3 FAQ
+      url: https://faq.i3wm.org/question/2228/input-not-working/index.html
+      zoom: 1.25
+- geometry: !!binary |
+    AdnQywACAAAAAAPCAAAAAwAABIEAAAQhAAADwgAAAAMAAASBAAAEIQAAAAAAAAAAB4A=
+  tabs:
+  - active: true
+    history:
+    - pinned: false
+      title: '[Solved] Unstable and slow Internet Intel Centrino Wireless-N 2230 /
+        Laptop Issues / Arch Linux Forums'
+      url: https://bbs.archlinux.org/viewtopic.php?id=196961
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 36
+      title: systemd - ArchWiki
+      url: https://wiki.archlinux.org/index.php/Systemd#Journal
+      zoom: 1.25
+- geometry: !!binary |
+    AdnQywACAAAAAASCAAAAAwAABUEAAAQhAAAEggAAAAMAAAVBAAAEIQAAAAAAAAAAB4A=
+  tabs:
+  - active: true
+    history:
+    - pinned: false
+      title: DuckDuckGo
+      url: https://start.duckduckgo.com/
+    - original-url: https://duckduckgo.com/?q=arch%20linux%20dhcpd%20pid%20file%20lock
+      pinned: false
+      title: arch linux dhcpd pid file lock at DuckDuckGo
+      url: https://duckduckgo.com/?q=arch+linux+dhcpd+pid+file+lock&ia=qa
+    - pinned: false
+      title: arch linux dhcpd pid file lock at DuckDuckGo
+      url: https://duckduckgo.com/?q=arch+linux+dhcpd+pid+file+lock&ia=qa&iax=qa
+    - original-url: https://duckduckgo.com/?q=arch+linux+dhcpcd+pid+file+lock
+      pinned: false
+      title: arch linux dhcpcd pid file lock at DuckDuckGo
+      url: https://duckduckgo.com/?q=arch+linux+dhcpcd+pid+file+lock&ia=web
+    - active: true
+      original-url: https://duckduckgo.com/?q=arch+linux+dhcpcd+pid+file+lock&ia=web
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: my Arch Linux cheat-sheet · GitHub
+      url: https://gist.github.com/ChrisFernandez/8555588
+      zoom: 1.25
+- geometry: !!binary |
+    AdnQywACAAAAAAVCAAAAAwAABgAAAAQhAAAFQgAAAAMAAAYAAAAEIQAAAAAAAAAAB4A=
+  tabs:
+  - active: true
+    history:
+    - original-url: https://duckduckgo.com/?q=archlinux%20filed%20to%20remove%20key%20from%20hardware%20wifi
+      pinned: false
+      title: archlinux filed to remove key from hardware wifi at DuckDuckGo
+      url: https://duckduckgo.com/?q=archlinux+filed+to+remove+key+from+hardware+wifi&ia=web
+    - active: true
+      original-url: https://duckduckgo.com/?q=arch%20linux%20failed%20to%20remove%20key%20from%20hardware%20wifi
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: arch linux failed to remove key from hardware wifi at DuckDuckGo
+      url: https://duckduckgo.com/?q=arch+linux+failed+to+remove+key+from+hardware+wifi&ia=web
+      zoom: 1.25
+    - original-url: https://duckduckgo.com/?q=arch+linux+failed+to+remove+key+from+hardware+wifi&ia=web
+      pinned: false
+      title: WiFi slow to connect (sometimes fails) / Newbie Corner / Arch Linux Forums
+      url: https://bbs.archlinux.org/viewtopic.php?id=231583
+- geometry: !!binary |
+    AdnQywACAAAAAAYBAAAAAwAABr8AAAQhAAAGAQAAAAMAAAa/AAAEIQAAAAAAAAAAB4A=
+  tabs:
+  - active: true
+    history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Debugging WiFi problems in a Dell Precision M4800 / Kernel & Hardware
+        / Arch Linux Forums
+      url: https://bbs.archlinux.org/viewtopic.php?id=227858
+      zoom: 1.25
+- geometry: !!binary |
+    AdnQywACAAAAAAbAAAAAAwAAB3wAAAQhAAAGwAAAAAMAAAd8AAAEIQAAAAAAAAAAB4A=
+  tabs:
+  - active: true
+    history:
+    - original-url: https://duckduckgo.com/?q=iwlwifi%20too%20many%20chunks
+      pinned: false
+      title: iwlwifi too many chunks at DuckDuckGo
+      url: https://duckduckgo.com/?q=iwlwifi+too+many+chunks&ia=web
+    - active: true
+      original-url: https://duckduckgo.com/?q=iwlwifi+too+many+chunks&ia=web
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: iwlwifi error ?? / Kernel & Hardware / Arch Linux Forums
+      url: https://bbs.archlinux.org/viewtopic.php?id=223002
+      zoom: 1.25
+- active: true
+  geometry: !!binary |
+    AdnQywACAAAAAAADAAAAAwAAB3wAAAQhAAAAAwAAAAMAAAd8AAAEIQAAAAAAAAAAB4A=
+  tabs:
+  - active: true
+    history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: DuckDuckGo
+      url: https://start.duckduckgo.com/
+      zoom: 1.25

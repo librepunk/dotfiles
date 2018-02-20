@@ -1,0 +1,3 @@
+function zcmd() {
+    alias | grep $1 |awk -F= '{printf "%d\t%s\n", $1, $2}'
+}

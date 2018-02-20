@@ -1,0 +1,4 @@
+# Clone from the AUR
+function AurClone() {
+    git clone https://aur.archlinux.org/"$1".git
+}
