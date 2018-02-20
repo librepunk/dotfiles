@@ -1,0 +1,3 @@
+source ~/.byobu/keys/common
+caption splitonly ''
+hardstatus lastline 'nikd@arch-omen'
