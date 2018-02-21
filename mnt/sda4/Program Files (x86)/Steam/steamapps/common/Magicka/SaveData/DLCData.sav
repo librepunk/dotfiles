@@ -1,0 +1,73 @@
+﻿<?xml version="1.0"?>
+<root>
+<LatestSave>1/27/2018 8:45:20 PM</LatestSave>
+<DLC_ContentNewStatuses>
+<DLC_ContentNewStatus Type="main_menu_entry" Name="mythos" IsUsed="false" AppID="73058"/>
+<DLC_ContentNewStatus Type="level" Name="#tsar_wizardcastle" IsUsed="false" AppID="73058"/>
+<DLC_ContentNewStatus Type="level" Name="#tsar_mountaindale" IsUsed="false" AppID="73058"/>
+<DLC_ContentNewStatus Type="level" Name="#tsar_rlyeh" IsUsed="false" AppID="73058"/>
+<DLC_ContentNewStatus Type="level" Name="#challenge_vietnam" IsUsed="false" AppID="42918"/>
+<DLC_ContentNewStatus Type="level" Name="#challenge_osotc" IsUsed="false" AppID="73093"/>
+<DLC_ContentNewStatus Type="level" Name="#challenge_dungeons_chapter1" IsUsed="false" AppID="73115"/>
+<DLC_ContentNewStatus Type="level" Name="#challenge_dungeons_chapter2" IsUsed="false" AppID="0"/>
+<DLC_ContentNewStatus Type="level" Name="#challenge_arena" IsUsed="false" AppID="42910"/>
+<DLC_ContentNewStatus Type="level" Name="#versus_lonely_island" IsUsed="false" AppID="73039"/>
+<DLC_ContentNewStatus Type="ItemPack" Name="#pack_vanilla_sticks" IsUsed="false" AppID="0"/>
+<DLC_ContentNewStatus Type="ItemPack" Name="#pack_ward_staffs" IsUsed="false" AppID="0"/>
+<DLC_ContentNewStatus Type="ItemPack" Name="#pack_purple_pack" IsUsed="false" AppID="0"/>
+<DLC_ContentNewStatus Type="ItemPack" Name="#pack_meaky_peaky" IsUsed="false" AppID="0"/>
+<DLC_ContentNewStatus Type="ItemPack" Name="#pack_heavy_hitters" IsUsed="false" AppID="0"/>
+<DLC_ContentNewStatus Type="ItemPack" Name="#pack_power_pack" IsUsed="false" AppID="0"/>
+<DLC_ContentNewStatus Type="ItemPack" Name="#pack_vietnam_gear" IsUsed="false" AppID="42918"/>
+<DLC_ContentNewStatus Type="ItemPack" Name="#pack_vanilla_weapons" IsUsed="false" AppID="0"/>
+<DLC_ContentNewStatus Type="ItemPack" Name="#pack_holiday_spirit" IsUsed="false" AppID="73091"/>
+<DLC_ContentNewStatus Type="ItemPack" Name="#pack_horror_props" IsUsed="false" AppID="73092"/>
+<DLC_ContentNewStatus Type="ItemPack" Name="#pack_gadgets" IsUsed="false" AppID="73097"/>
+<DLC_ContentNewStatus Type="ItemPack" Name="#pack_heirlooms" IsUsed="false" AppID="73098"/>
+<DLC_ContentNewStatus Type="ItemPack" Name="#PACK_SPORTING_GOODS" IsUsed="false" AppID="42910"/>
+<DLC_ContentNewStatus Type="MagickPack" Name="" IsUsed="false" AppID="0"/>
+<DLC_ContentNewStatus Type="MagickPack" Name="" IsUsed="false" AppID="42918"/>
+<DLC_ContentNewStatus Type="MagickPack" Name="" IsUsed="false" AppID="73030"/>
+<DLC_ContentNewStatus Type="robe" Name="wizardcru" IsUsed="false" AppID="42910"/>
+<DLC_ContentNewStatus Type="robe" Name="wizarddet" IsUsed="false" AppID="73058"/>
+<DLC_ContentNewStatus Type="robe" Name="wizardhat" IsUsed="false" AppID="73030"/>
+<DLC_ContentNewStatus Type="robe" Name="wizardhc" IsUsed="false" AppID="73057"/>
+<DLC_ContentNewStatus Type="robe" Name="wizardpat" IsUsed="false" AppID="42910"/>
+<DLC_ContentNewStatus Type="robe" Name="wizardpur" IsUsed="false" AppID="73057"/>
+<DLC_ContentNewStatus Type="robe" Name="wizardred" IsUsed="false" AppID="42910"/>
+<DLC_ContentNewStatus Type="robe" Name="wizardres" IsUsed="false" AppID="42910"/>
+<DLC_ContentNewStatus Type="robe" Name="wizardrog" IsUsed="false" AppID="73055" StoreAppID="901679"/>
+<DLC_ContentNewStatus Type="robe" Name="wizardsam" IsUsed="false" AppID="73031"/>
+<DLC_ContentNewStatus Type="robe" Name="wizardspa" IsUsed="false" AppID="42910"/>
+<DLC_ContentNewStatus Type="robe" Name="wizardsup" IsUsed="false" AppID="73056" StoreAppID="901679"/>
+<DLC_ContentNewStatus Type="robe" Name="wizardtan" IsUsed="false" AppID="73054" StoreAppID="901679"/>
+<DLC_ContentNewStatus Type="robe" Name="wizardten" IsUsed="false" AppID="73057"/>
+<DLC_ContentNewStatus Type="robe" Name="wizardtre" IsUsed="false" AppID="73035"/>
+<DLC_ContentNewStatus Type="robe" Name="wizardtron" IsUsed="false" AppID="42910"/>
+<DLC_ContentNewStatus Type="robe" Name="wizardvtn" IsUsed="false" AppID="42918"/>
+</DLC_ContentNewStatuses>
+<DLC_Splash_Statuses>
+<DLC_SplashInfo AppID="255980" ReleaseDate="10/31/2013" Name="Dungeons and Gargoyles" IsNew="true" IsOwnd="false" />
+<DLC_SplashInfo AppID="73118" ReleaseDate="1/17/2013" Name="Free Jolnir's Workshop" IsNew="true" IsOwnd="true" />
+<DLC_SplashInfo AppID="73120" ReleaseDate="10/29/2012" Name="Grimnir's Laboratory" IsNew="true" IsOwnd="false" />
+<DLC_SplashInfo AppID="73115" ReleaseDate="10/11/2012" Name="Dungeons and Daemons" IsNew="true" IsOwnd="false" />
+<DLC_SplashInfo AppID="73097" ReleaseDate="7/24/2012" Name="Peculiar Gadgets Item Pack" IsNew="true" IsOwnd="false" />
+<DLC_SplashInfo AppID="73098" ReleaseDate="7/24/2012" Name="Heirlooms Item Pack" IsNew="true" IsOwnd="false" />
+<DLC_SplashInfo AppID="73095" ReleaseDate="7/24/2012" Name="Mega Villain Robes" IsNew="true" IsOwnd="false" />
+<DLC_SplashInfo AppID="73096" ReleaseDate="7/24/2012" Name="Aspiring Musician Robes" IsNew="true" IsOwnd="false" />
+<DLC_SplashInfo AppID="73093" ReleaseDate="6/19/2012" Name="The Other Side of the Coin" IsNew="true" IsOwnd="true" />
+<DLC_SplashInfo AppID="73039" ReleaseDate="2/16/2012" Name="Lonely Island Cruise" IsNew="true" IsOwnd="true" />
+<DLC_SplashInfo AppID="73092" ReleaseDate="11/30/2011" Name="Horror Props Item Pack" IsNew="true" IsOwnd="true" />
+<DLC_SplashInfo AppID="73091" ReleaseDate="11/30/2011" Name="Holiday Spirit Item Pack" IsNew="true" IsOwnd="true" />
+<DLC_SplashInfo AppID="73058" ReleaseDate="11/30/2011" Name="The Stars Are Left" IsNew="true" IsOwnd="true" />
+<DLC_SplashInfo AppID="73057" ReleaseDate="9/18/2011" Name="Gamer Bundle" IsNew="true" IsOwnd="true" />
+<DLC_SplashInfo AppID="73037" ReleaseDate="6/21/2011" Name="Frozen Lake" IsNew="true" IsOwnd="true" />
+<DLC_SplashInfo AppID="73036" ReleaseDate="6/21/2011" Name="The Watchtower" IsNew="true" IsOwnd="true" />
+<DLC_SplashInfo AppID="73035" ReleaseDate="6/21/2011" Name="Final Frontier" IsNew="true" IsOwnd="true" />
+<DLC_SplashInfo AppID="901679" ReleaseDate="6/21/2011" Name="Party Robes" IsNew="true" IsOwnd="true" />
+<DLC_SplashInfo AppID="73031" ReleaseDate="6/1/2011" Name="Nippon" IsNew="true" IsOwnd="true" />
+<DLC_SplashInfo AppID="73033" ReleaseDate="4/26/2011" Name="Marshlands" IsNew="true" IsOwnd="true" />
+<DLC_SplashInfo AppID="42918" ReleaseDate="4/12/2011" Name="Vietnam" IsNew="true" IsOwnd="true" />
+<DLC_SplashInfo AppID="73030" ReleaseDate="3/8/2011" Name="Wizard's Survival Kit" IsNew="true" IsOwnd="true" />
+</DLC_Splash_Statuses>
+</root>
